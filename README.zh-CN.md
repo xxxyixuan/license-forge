@@ -35,13 +35,13 @@ SPDX 标识符和常用别名也能用：`lic MIT`、`lic apache`、`lic gpl`、
 需要 Rust 1.75 或更高版本：
 
 ```sh
-$ cargo install --git https://github.com/xxxyixuan/license-forge
+cargo install --git https://github.com/xxxyixuan/license-forge
 ```
 
 或者在本地源码目录里安装：
 
 ```sh
-$ cargo install --path .
+cargo install --path .
 ```
 
 crate 名是 `license-forge`，二进制名是 `lic`。
