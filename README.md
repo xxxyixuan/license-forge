@@ -36,10 +36,10 @@ SPDX identifiers and common aliases work too: `lic MIT`, `lic apache`, `lic gpl`
 With Rust 1.75 or higher:
 
 ```sh
-$ cargo install license-forge
+$ cargo install --git https://github.com/xxxyixuan/license-forge
 ```
 
-Or from a checkout:
+Or from a local checkout:
 
 ```sh
 $ cargo install --path .
