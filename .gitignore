@@ -1,0 +1,13 @@
+# 构建产物
+/target
+
+# 模板抓取脚本的本地缓存（可用 `python scripts/fetch_templates.py --refresh` 重建）
+/scripts/.cache
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+

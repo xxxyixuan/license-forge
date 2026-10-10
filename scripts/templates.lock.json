@@ -1,0 +1,153 @@
+{
+  "agpl-3.0": {
+    "bytes": 34519,
+    "placeholders": [
+      "<name of author>",
+      "<year>"
+    ],
+    "sha256": "7d6ba4b2088b9d77c55826bebe2c8c48d00037669db5b00a883d99938190d963",
+    "source": "https://api.github.com/licenses/agpl-3.0",
+    "spdx_id": "AGPL-3.0"
+  },
+  "apache-2.0": {
+    "bytes": 11344,
+    "placeholders": [
+      "[name of copyright owner]",
+      "[yyyy]"
+    ],
+    "sha256": "71ad029fa2f71e246b6ba98c6d659e4fa3047bb13cd92350ea725419ee421bb6",
+    "source": "https://api.github.com/licenses/apache-2.0",
+    "spdx_id": "Apache-2.0"
+  },
+  "artistic-2.0": {
+    "bytes": 8894,
+    "placeholders": [],
+    "sha256": "c2a7ff448e62f0e7f47bfeb1c057bbc01870ef68d702417ff4df0dcbd49c68fe",
+    "source": "https://api.github.com/licenses/artistic-2.0",
+    "spdx_id": "Artistic-2.0"
+  },
+  "bsd-2-clause": {
+    "bytes": 1303,
+    "placeholders": [
+      "[fullname]",
+      "[year]"
+    ],
+    "sha256": "b5e5d62611fa9072dbd4a5c64f8faf06216113f25f6c5979a69efff9db502159",
+    "source": "https://api.github.com/licenses/bsd-2-clause",
+    "spdx_id": "BSD-2-Clause"
+  },
+  "bsd-3-clause": {
+    "bytes": 1501,
+    "placeholders": [
+      "[fullname]",
+      "[year]"
+    ],
+    "sha256": "163b2275935f0c60fe1a2b262f27bafb5c402ce849be1bd555beef040f6f5bd8",
+    "source": "https://api.github.com/licenses/bsd-3-clause",
+    "spdx_id": "BSD-3-Clause"
+  },
+  "bsd-4-clause": {
+    "bytes": 1661,
+    "placeholders": [
+      "[fullname]",
+      "[year]"
+    ],
+    "sha256": "50d0593b851934ce7e582536015715a66f8911bed609acd4a8366fa0377c2611",
+    "source": "https://api.github.com/licenses/bsd-4-clause",
+    "spdx_id": "BSD-4-Clause"
+  },
+  "bsl-1.0": {
+    "bytes": 1338,
+    "placeholders": [],
+    "sha256": "c9bff75738922193e67fa726fa225535870d2aa1059f91452c411736284ad566",
+    "source": "https://api.github.com/licenses/bsl-1.0",
+    "spdx_id": "BSL-1.0"
+  },
+  "cc0-1.0": {
+    "bytes": 7048,
+    "placeholders": [],
+    "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+    "source": "https://api.github.com/licenses/cc0-1.0",
+    "spdx_id": "CC0-1.0"
+  },
+  "gpl-3.0": {
+    "bytes": 35143,
+    "placeholders": [
+      "<name of author>",
+      "<program>",
+      "<year>"
+    ],
+    "sha256": "1dc2d32907b383858d70aeeb86c97ce0b559fe3ef090c574cf4b97bd37bd06a2",
+    "source": "https://api.github.com/licenses/gpl-3.0",
+    "spdx_id": "GPL-3.0"
+  },
+  "isc": {
+    "bytes": 745,
+    "placeholders": [
+      "[fullname]",
+      "[year]"
+    ],
+    "sha256": "fab2f70bed3f846762fabea9084ae6790afe730d3971a7f8b1b5a3bdbf2f6de6",
+    "source": "https://api.github.com/licenses/isc",
+    "spdx_id": "ISC"
+  },
+  "lgpl-3.0": {
+    "bytes": 7652,
+    "placeholders": [],
+    "sha256": "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118",
+    "source": "https://api.github.com/licenses/lgpl-3.0",
+    "spdx_id": "LGPL-3.0"
+  },
+  "mit": {
+    "bytes": 1071,
+    "placeholders": [
+      "[fullname]",
+      "[year]"
+    ],
+    "sha256": "ff7017aa403270cf2c440f5ccb4240d0b08e54d8bf8a0424d34166e8f3e10138",
+    "source": "https://api.github.com/licenses/mit",
+    "spdx_id": "MIT"
+  },
+  "mpl-2.0": {
+    "bytes": 16726,
+    "placeholders": [],
+    "sha256": "3f3d9e0024b1921b067d6f7f88deb4a60cbe7a78e76c64e3f1d7fc3b779b9d04",
+    "source": "https://api.github.com/licenses/mpl-2.0",
+    "spdx_id": "MPL-2.0"
+  },
+  "mulanpsl-2.0": {
+    "bytes": 9197,
+    "placeholders": [
+      "[Software Name]",
+      "[Year]",
+      "[name of copyright holder]"
+    ],
+    "sha256": "a0b9eafff70468996def36cd44957353abccf1f81e99a91739fe6c3397241a9b",
+    "source": "https://spdx.org/licenses/MulanPSL-2.0.json",
+    "spdx_id": "MulanPSL-2.0"
+  },
+  "unlicense": {
+    "bytes": 1211,
+    "placeholders": [],
+    "sha256": "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e",
+    "source": "https://api.github.com/licenses/unlicense",
+    "spdx_id": "Unlicense"
+  },
+  "wtfpl": {
+    "bytes": 483,
+    "placeholders": [],
+    "sha256": "96f17857f3eb28a7d93dad930bc099a3cb65a9a2afb37069bfd1ba5ec5964389",
+    "source": "https://api.github.com/licenses/wtfpl",
+    "spdx_id": "WTFPL"
+  },
+  "zlib": {
+    "bytes": 858,
+    "placeholders": [
+      "[fullname]",
+      "[year]"
+    ],
+    "sha256": "6cfe24ab1dbe503dd8930e2e9b996b3fd4f5c1b10099c39c8233881545f822d9",
+    "source": "https://api.github.com/licenses/zlib",
+    "spdx_id": "Zlib"
+  }
+}
